@@ -9,11 +9,11 @@
 
 ## Description
 
-Created with only Vanilla JavaScript.
+Manipulating conventional CSS variables on all applicable elements with JavaScript instead. Created with only Vanilla JavaScript.
 
 ## Usage
 
-![CSS Variables screenshot 1]()
+![CSS Variables screenshot 1](./assets/images/css_variables_screenshot.png)
 
 ## Credits
 
